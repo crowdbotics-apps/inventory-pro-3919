@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT inventory_pro_3919.wsgi:application
